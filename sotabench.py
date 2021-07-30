@@ -1,0 +1,1 @@
+from torchbench.image_classification import ImageNet
